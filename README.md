@@ -1,7 +1,6 @@
 # Welcome
 
-This is a library of boilerplates for writing accessibility acceptance criteria. 
-
+This is a WIP library of boilerplates for writing accessibility acceptance criteria. 
 
 ## Accessibility at Scale
 * [Recommendations](./recommendations.md)
